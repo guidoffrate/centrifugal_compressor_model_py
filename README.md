@@ -1,6 +1,6 @@
 # Centrifugal Compressor Model
 
-A Python implementation of a centrifugal compressor model, including geometry definition, thermodynamic analysis, and performance evaluation. This project is suitable for engineering analysis, educational purposes, and parametric or optimization studies.
+A Python implementation of a centrifugal compressor model, including geometry definition, thermodynamic analysis, and performance evaluation. This project is suitable for engineering analysis, research, educational purposes, and parametric or optimization studies.
 
 ## Features
 
