@@ -38,18 +38,11 @@ python examples/single_run.py
 
 [MIT License](LICENSE)
 
-## References
-
-- Meroni et al., 2018, *Applied Energy*
-- Aungier, R.H., 2000, *Centrifugal Compressors: A Strategy for Aerodynamic Design*
-- CoolProp: [http://www.coolprop.org](http://www.coolprop.org)
-
-
 ## Citation
 
 If you use this model or its components in your work, please cite:
 
 Frate, G.F., Benvenuti, M., Chini, F., and Ferrari, L. (2024).  
 _Optimal design of centrifugal compressors in small-size high-temperature Brayton heat pumps_,  
-Proceedings of 37th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS),  
+Proceedings of 37th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS),
 Rhodes, Greece, 30 June - 5 July 2024, doi: [10.52202/077185-0031](https://doi.org/10.52202/077185-0031)
