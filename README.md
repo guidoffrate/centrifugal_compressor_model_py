@@ -26,14 +26,6 @@ examples/
 └── optimization_study.py  # Geometry optimization for max efficiency
 ```
 
-## Usage
-
-Example usage (`examples/single_run.py`):
-
-```bash
-python examples/single_run.py
-```
-
 ## License
 
 [MIT License](LICENSE)
