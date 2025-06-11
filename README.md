@@ -2,6 +2,12 @@
 
 A Python implementation of a centrifugal compressor model, including geometry definition, thermodynamic analysis, and performance evaluation. This project is suitable for engineering analysis, research, educational purposes, and parametric or optimization studies.
 
+This is a 1-D Matlab model of a centrifugal compressor (impeller + vaneless diffuser) that simulates the compressor performance given the machine's geometrical specifications. The model is thought explicitly to allow you to:
+- optimize the compressor geometry to maximize the machine efficiency;
+- generate the machine performance maps by simulating off-design operation once the geometry is fixed;
+
+A Matlab version of the same model can be found at https://github.com/guidoffrate/Centrifugal-compressor-model
+
 ## Features
 
 - Thermodynamic modeling using CoolProp
